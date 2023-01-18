@@ -3,12 +3,12 @@
 		<p>
 			Diagram by
 			<a
-				href="https://twitter.com/CL_Rothschild"
+				href="https://twitter.com/VaLandscapes"
 				target="_blank"
 				rel="noopener"
 				class="link"
 			>
-				Connor Rothschild</a
+				uvacoder</a
 			>
 		</p>
 	</div>
